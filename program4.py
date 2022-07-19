@@ -17,3 +17,4 @@ print("minst aantal     :" + str(min))
 print("max aantal       :"  + str(max))
 
 # test vppr got
+# groente
