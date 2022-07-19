@@ -15,3 +15,5 @@ for stap in aantal_stappen:
 print("Gemiddeld gelopen: " + str(telop/aantal))
 print("minst aantal     :" + str(min))
 print("max aantal       :"  + str(max))
+
+# test vppr got
